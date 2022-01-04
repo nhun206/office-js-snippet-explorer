@@ -75,8 +75,6 @@ Visit [http://dev.office.com](http://dev.office.com) for all your Office 365 Dev
  - Submit feedback on [UserVoice](http://officespdev.uservoice.com/)
 
 a
-a
-a
 4
 5
 6
